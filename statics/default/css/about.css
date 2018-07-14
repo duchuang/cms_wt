@@ -1,0 +1,84 @@
+#about {
+  width: 1160px;
+  margin: auto;
+ }
+.zi_zuo {
+float: left;
+width: 225px;
+overflow: hidden;
+margin-top: 10px;
+}
+h2 {
+background: url(../images/bg013.png) no-repeat left top;
+height: 32px;
+overflow: hidden;
+text-align: center;
+padding: 10px 0;
+font-size: 16px;
+font-weight: 600;
+color: #FFFFFF;
+}
+#main .zi_zuo .leftnav {
+  float: left;
+  width: 225px;
+}
+#main .zi_zuo .leftnav ul {
+background: url(../images/bg012.png) no-repeat left bottom;
+padding-bottom: 40px;
+padding-top: 3px;
+}
+#main .zi_zuo .leftnav li {
+text-align: left;
+height: 38px;
+line-height: 38px;
+text-indent: 78px;
+}
+
+#main .zi_zuo .leftnav li a {
+font-size: 14px;
+display: block;
+}
+
+#main .zi_you {
+float: right;
+width: 905px;
+margin-left: 26px;
+/*overflow: hidden;*/
+}
+
+h4 {
+border-bottom: solid 2px #034B87;
+height: 59px;
+line-height: 55px;
+font-size: 16px;
+font-weight: bold;
+padding-left: 30px;
+color: blue;
+}
+.right_ {
+float: right;
+font-size: 12px;
+font-weight: normal;
+}
+a {
+color: #333333;
+text-decoration: none;
+outline: none;
+}
+h4 span {
+font-size: 12px;
+font-weight: normal;
+color: #666666;
+padding-right: 17px;
+}
+#main .zi_you .ab_content p {
+color: #333333;
+padding-top: 25px;
+text-indent: 2em;
+line-height: 24px;
+}
+#main .zi_you .ab_content {
+padding: 0 15px 0 15px;
+line-height: 22px;
+color: #4D4D4D;
+}

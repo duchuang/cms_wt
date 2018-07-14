@@ -1,0 +1,236 @@
+.member {
+  width: 1160px;
+  margin: auto;
+  margin-top: 10px;
+}
+.member .zuo {
+  float: right;
+  width: 298px;
+  margin-top: 30px;
+}
+h2 {
+  background: url(../images/member001.png) no-repeat center top;
+  height: 34px;
+  line-height: 34px;
+  padding: 0 15px;
+  font-size: 16px;
+  font-weight: normal;
+  color: #FFFFFF;
+  text-shadow: 2px 2px 2px #e96800;
+}
+.member .zuo .lm {
+  border-right: solid 1px #0587f4;
+  border-left: solid 1px #0587f4;
+  border-bottom: solid 1px #0587f4;
+}
+h3 {
+  background: url(../images/member002.png) repeat-x center top;
+  height: 30px;
+  line-height: 30px;
+  padding: 0 15px;
+  /*color: #ff6600;*/
+  text-shadow: 2px 2px 2px #ffffff;
+  border-bottom: solid 1px #0587f4;
+  border-top: solid 1px #0587f4;
+}
+.member .zuo .lm ul {
+  padding: 5px 0;
+}
+.member .zuo .lm ul li a {
+  background: url(../images/member003.png) no-repeat 19px center;
+  padding-left: 30px;
+  line-height: 26px;
+  display: block;
+}
+.member .you {
+  float: left;
+  width: 782px;
+  margin-right: 10px;
+}
+h4 {
+  border-bottom: solid 2px #034B87;
+  font-size: 16px;
+  line-height: 30px;
+  text-indent: 10px;
+  margin-bottom: 12px;
+}
+.member .togglecc {
+  margin-bottom: 20px;
+  overflow: hidden;
+}
+.glzx {
+  padding-left: 10px;
+  margin-bottom: 15px;
+  float: left;
+  width: 757px;
+}
+.glzx dl dd.img {
+  float: left;
+  width: 85px;
+  margin-right: 20px;
+  position: relative;
+}
+.glzx dl dd.img img {
+  padding: 2px;
+  width: 79px;
+  height: 79px;
+  border: solid 1px #dddddd;
+}
+.glzx dl dd.img span {
+  position: absolute;
+  bottom: 3px;
+  left: 0;
+  background: #FFFFFF;
+  margin: 3px;
+  display: block;
+  width: 79px;
+  line-height: 22px;
+  text-align: center;
+  -moz-opacity: 0.7;
+  opacity: .70;
+  filter: alpha(opacity=70);
+}
+.glzx dl dd.img span a {
+  color: #666666;
+}
+.glzx dl .usa {
+  font-size: 16px;
+}
+.glzx dl dt {
+  padding: 5px 0 8px 0;
+}
+.glzx dl .usa {
+  font-size: 16px;
+}
+strong, b {
+  font-weight: bold;
+}
+.glzx dl .usb {
+  font-size: 14px;
+}
+.member .you .zxbg {
+  float: left;
+  width: 757px;
+  margin-left: 10px;
+  margin-bottom: 10px;
+}
+.member .you .zxbg .bm-tab td, .member .you .zxbg .bm-tab {
+  border: 0px;
+  font-size: 12px;
+}
+.member .you .zxbg table {
+  border-left: solid 1px #DEDEDE;
+  border-top: solid 1px #DEDEDE;
+}
+.member .you .zxbg .bm-tab .ux_cl {
+  border-top: 1px solid #E6E6E6;
+  font-size: 14px;
+}
+.member .you .zxbg .bm-tab td, .member .you .zxbg .bm-tab {
+  border: 0px;
+  font-size: 12px;
+}
+.member .you .zxbg table td {
+  line-height: 32px;
+  border-bottom: solid 1px #DEDEDE;
+  border-right: solid 1px #DEDEDE;
+}
+.member .you .zxbg table th, .member .you table td {
+  padding: 0 5px;
+  font-size: 12px;
+}
+.glzx dl dt strong {
+  color: #034B87;
+}
+.ernav {
+  margin: 24px auto 0 auto;
+  width: 980px;
+  padding-top: 15px;
+  background: url(../images/bg011.png) no-repeat center top;
+  clear: both;
+}
+.layer-input {
+  display: block;
+  width: 220px;
+  height: 30px;
+  margin: 0 auto;
+  line-height: 30px;
+  padding: 0 5px;
+  border: 1px solid #ccc;
+  background: url(../images/textbg.png) #fff repeat-x;
+  color: #333;
+    font-family: inherit;
+  font-size: inherit;
+  font-style: inherit;
+  font-weight: inherit;
+  outline: 0;
+}
+.bxlist {
+  float: left;
+  width: 100%;
+  border-bottom: dotted 1px #dddddd;
+  padding: 10px 15px 8px 15px;
+  min-height: 115px;
+}
+.bxlist .one {
+  /* background: url(../images/bg018.png) no-repeat 10px 103px; */
+  min-height: 125px;
+  float: left;
+  width: 190px;
+  position: relative;
+}
+.bxlist .two {
+  float: left;
+  width: 380px;
+}
+.bxlist .two dl {
+  line-height: 24px;
+}
+.bxlist .two dl dt {
+  font-size: 20px;
+  color: #ff6600;
+}
+.bxlist .two dl dt a {
+  color: #ff6600;
+}
+ul, li, dt, dl, dd {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+.fl {
+  border-bottom: 2px solid #034B87;
+  border-top: 2px solid #034B87;
+}
+.fl li {
+  padding-left: 20px;
+  line-height: 40px;
+  border-bottom: 1px solid #eeeeee;
+}
+.fl li a {
+  padding-left: 12px;
+  color: #666;
+  font-size: 14px;
+  background: url(../images/sj.png) no-repeat 0px 6px;
+}
+.lxwm_1 {
+  margin: 20px 0;
+}
+.lxwm_1 p {
+  margin: 15px 0;
+  line-height: 20px;
+  color: #034B87;
+  font-size: 14px;
+}
+p {
+  color: #333333;
+  padding-top: 25px;
+  text-indent: 2em;
+  line-height: 24px;
+}
+.bxlist img{
+	width: 200px;
+}
+.two{
+	margin-left: 20px;
+}

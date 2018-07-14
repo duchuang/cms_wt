@@ -1,0 +1,47 @@
+form {
+  display: block;
+  margin-top: 0em;
+}
+.wenzi {
+  font-size: 14px;
+}
+td {
+  white-space: nowrap;
+}
+
+.you .red {
+  color: #F00;
+  padding-top: 3px;
+}
+.you .field {
+  width: 230px;
+  padding: 6px 5px 7px 5px;
+  border: solid 1px #bbbbbb;
+}
+.you input {
+  vertical-align: middle;
+}
+.text {
+  padding: 5px;
+  border: solid 1px #bbbbbb;
+  width: 360px;
+  height: 65px;
+}
+.you .btn001 {
+  background: url(../images/btn009.png) no-repeat;
+}
+.you .btn002 {
+  background: url(../images/btn006.png) no-repeat;
+  margin-left: 15px;
+}
+.you .btn {
+  width: 86px;
+  height: 34px;
+  border: none;
+}
+.you input,select {
+  vertical-align: middle;
+}
+.btn {
+  cursor: pointer;
+}
